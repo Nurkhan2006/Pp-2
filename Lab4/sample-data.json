@@ -1,0 +1,15 @@
+{
+    "imdata": [
+      {
+        "l1PhysIf": {
+          "attributes": {
+            "dn": "eth1/1",
+            "descr": "Uplink1",
+            "speed": "10G",
+            "mtu": "1500"
+          }
+        }
+      }
+    ]
+  }
+  
